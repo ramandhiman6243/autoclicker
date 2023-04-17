@@ -1,0 +1,14 @@
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\bin\Release\Newtonsoft.Json.dll
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\bin\Release\Newtonsoft.Json.xml
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CopyComplete
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\Prameya\OneDrive\Desktop\Raman\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
